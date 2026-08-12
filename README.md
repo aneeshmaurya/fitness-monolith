@@ -37,7 +37,7 @@ Users can register and log in to obtain a JWT token. The token is then used to a
 
 ## 📚 API Documentation
 
-Swagger UI is used for interactive API documentation and testing.
+[Open Swagger UI](https://fitness-mono-c7mm.onrender.com/swagger-ui/index.html)
 
 ## 🗄️ Database
 
